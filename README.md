@@ -10,6 +10,6 @@ O que fiz:
 
 O que farei: 
 
-- aplicar filtragem para selecionar pokemons de determinada caracteristica
-- atribuir evoluçoes do pokemon 
-- caixa de pesquisa
+- Aplicar filtragem para selecionar pokemons de determinada caracteristica
+- Atribuir evoluçoes do pokemon 
+- Caixa de pesquisa
